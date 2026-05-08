@@ -16,7 +16,7 @@ This project is a web-based inventory and stock management system developed usin
 - Spring Boot
 - MySQL
 - HTML
-- HTML
+- CSS 
 
 ## How to Run the Project
 
@@ -26,7 +26,7 @@ This project is a web-based inventory and stock management system developed usin
 4. Run the Spring Boot application
 5. Open browser and visit:
 
-http://localhost:8080
+http://localhost:8080 (sample link)
 
 ## GitHub Repository
 https://github.com/nk587614-bit/Smart-Inventory-and-Stock-Management-system-
